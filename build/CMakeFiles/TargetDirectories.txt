@@ -1,3 +1,0 @@
-/home/runner/work/cpp-bank-account-manager-cli/cpp-bank-account-manager-cli/build/CMakeFiles/HW4.dir
-/home/runner/work/cpp-bank-account-manager-cli/cpp-bank-account-manager-cli/build/CMakeFiles/edit_cache.dir
-/home/runner/work/cpp-bank-account-manager-cli/cpp-bank-account-manager-cli/build/CMakeFiles/rebuild_cache.dir
