@@ -1,5 +1,4 @@
-# C++ Bank Account Manager CLI
-
+# C++ Set Data Structure
 A command-line interface application for managing sets of integers using a custom Set implementation built on a doubly linked list data structure.
 
 ## Description
